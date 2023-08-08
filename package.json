@@ -23,11 +23,7 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ],
-    "rules": {
-      "no-template-curly-in string": "off",
-      "no-unused-vars": "off"
-    }
+    ]
   },
   "browserslist": {
     "production": [
